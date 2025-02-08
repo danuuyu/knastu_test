@@ -5,3 +5,7 @@ This is a simple project to demonstrate the use of Git and GitHub.
 ## Features
 - Feature 1
 - Feature 2
+
+## New Features
+- Added feature 3
+- Improved feature 1
